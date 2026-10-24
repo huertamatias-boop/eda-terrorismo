@@ -1,0 +1,1 @@
+Colocar aquí globalterrorismdb_0718dist.csv (ver README.md)

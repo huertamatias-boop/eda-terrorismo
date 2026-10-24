@@ -1,4 +1,4 @@
-**Fuente:** GTD, START – Universidad de Maryland, https://www.start.umd.edu/gtd/. 
+**Fuente:** GTD, START – Universidad de Maryland, https://www.start.umd.edu/gtd/. descargar csv y coolocarlo en la respectiva carpeta datos, asi funciona de manera local, sin subir el csv ya que su tamaño es elevado al que se puede subir a github.
 
 **Cada fila** = un evento. Se usa el conjunto completo. Columnas usadas: `iyear, region_txt, country_txt, attacktype1_txt, weaptype1_txt, nkill, nwound` (+ `eventid` solo para detectar duplicados).
 
